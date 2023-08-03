@@ -1,0 +1,20 @@
+
+
+#adding{
+
+    height: 5rem;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    border: 1px solid rgb(28, 19, 19);
+border-style: dashed;
+border-width: 2px;
+border-radius: 10px;
+background-image:linear-gradient(to left, rgb(12, 218, 136) , rgb(59, 16, 151));
+
+}
+#topmargin{
+
+margin-top: 80px;
+
+}
